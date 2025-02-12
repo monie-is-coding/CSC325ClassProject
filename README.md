@@ -1,6 +1,6 @@
 # Personal Online Portfolio
 
-Welcome to my personal online portfolio! This project showcases my work, technical skills, and accomplishments in the world of AI, Cybersecurity and Resarch. The portfolio includes details about me, the projects I’ve worked on, and ways for potential employers to get in touch.
+Welcome to my personal online portfolio! This project showcases my work, technical skills, and accomplishments in the world of AI, Cybersecurity and Research. The portfolio includes details about me, the projects I’ve worked on, and ways for potential employers to get in touch.
 
 ## Table of Contents
 
@@ -24,19 +24,9 @@ The website is built using modern technologies and is responsive across various 
   
 - **Social Links**: Direct links to my social profiles like LinkedIn, GitHub, and Twitter for easy connection.
 
-## Tech Stack
-
-This portfolio utilizes the following technologies:
-
-- **HTML5** – For structuring the content of the website.
-- **CSS3** – Styling and layout.
-- **JavaScript** – Adding interactivity to the website.
-- **React.js** – A modern JavaScript framework for building the frontend.
-- **GitHub Pages/Netlify/Vercel** – For hosting the site online.
-
 Contact
 Feel free to reach out to me for inquiries, collaborations, or just to connect:
 
 Email: romonaocameron@gmail.com
-LinkedIn: your-linkedin
+LinkedIn: RomonaCameron/linkedin
 GitHub: monie-is-coding
