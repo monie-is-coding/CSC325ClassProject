@@ -1,11 +1,16 @@
 ### **User Persona: End User**
 
-#### **Name**: Nissim Najura
-#### **Age**: 34  
-#### **Role**: Hiring Manager 
-#### **Industry**: Marketing
-#### **Location**: New York, NY  
-#### **Skill Level**: Advanced (in project management)
+> Name: Nissim Najura
+
+> Age: 34
+
+> Role: Hiring Manager
+ 
+> Industry: Marketing
+
+> Location: New York, NY
+
+> Skill Level: Advanced (in project management)
 
 ---
 
