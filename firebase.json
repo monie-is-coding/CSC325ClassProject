@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "website",  // Adjust if your build folder is different
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
